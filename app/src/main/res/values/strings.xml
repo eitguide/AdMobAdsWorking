@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdMobAds</string>
+
+    <!--Ad unit-->
+    <string name="ad_unit_banner">ca-app-pub-8567317612161629/1489835995</string>
+    <string name="ad_unit_full">ca-app-pub-8567317612161629/2966569195</string>
+</resources>
